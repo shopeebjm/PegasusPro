@@ -543,13 +543,12 @@ SOFTWARE.
 ---
 
 ## ⚠️ Disclaimer
+Pegasus dikembangkan khusus untuk penggunaan pendidikan dan pribadi.
 
-> **Pegasus is developed strictly for educational and personal use.**
->
-> - ✅ Only use this tool on Android devices **you own** or have **explicit written permission** to access.
-> - ❌ Unauthorized access to someone else's device is **illegal** under cybercrime and privacy laws worldwide — including the IT Act (India), CFAA (USA), Computer Misuse Act (UK), and equivalent laws in other countries.
-> - The developer (**thakur2309**) holds **zero liability** for any illegal, unethical, or unauthorized use of this software.
-> - All data extraction features (contacts, SMS, call logs) are intended exclusively for **personal data backup** and **security research on your own device**.
+✅ Gunakan alat ini hanya pada perangkat Android yang Anda miliki atau yang Anda miliki izin tertulis secara eksplisit untuk mengaksesnya.
+❌ Akses tanpa izin ke perangkat orang lain adalah ilegal menurut hukum kejahatan siber dan privasi di seluruh dunia — termasuk Undang-Undang TI (India), CFAA (AS), Undang-Undang Penyalahgunaan Komputer (Inggris), dan undang-undang serupa di negara lain.
+Pengembang ( shopeebjm ) tidak bertanggung jawab atas penggunaan perangkat lunak ini yang ilegal, tidak etis, atau tidak sah.
+Semua fitur ekstraksi data (kontak, SMS, riwayat panggilan) ditujukan secara eksklusif untuk pencadangan data pribadi dan penelitian keamanan pada perangkat Anda sendiri .
 
 ---
 
