@@ -565,10 +565,10 @@ Contributions, bug reports, and feature suggestions are welcome!
 
 ---
 
-## ⭐ Support the Project
+## ⭐ Dukung Proyek ini
 
-If Pegasus helped you, please consider giving it a **⭐ star** on GitHub.  
-It helps others find the project and motivates continued development.
+- Jika Pegasus membantu Anda, pertimbangkan untuk memberikan bintang ⭐ di GitHub.
+- Ini membantu orang lain menemukan proyek ini dan memotivasi pengembangan berkelanjutan.
 
 ---
 
