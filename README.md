@@ -514,10 +514,10 @@ All generated files are saved in the **same directory** where you run the script
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.
+Proyek ini dilisensikan dibawah
+**MIT License**.
 
 ```
-MIT License
 
 Copyright (c) 2024 thakur2309
 
