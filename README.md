@@ -554,13 +554,16 @@ SOFTWARE.
 ---
 
 ## 🤝 Berkontribusi
+- Kontribusi, laporan bug, dan saran fitur sangat kami harapkan!
+Berkontribusi
 Kontribusi, laporan bug, dan saran fitur sangat kami harapkan!
 
-Fork repositori ini
+- Fork repositori ini
 Buat cabang Anda:git checkout -b feature/your-feature-name
 Simpan perubahan Anda:git commit -m "feat: add your feature"
 Dorong ke cabang:git push origin feature/your-feature-name
-Buka Permintaan Tarik **Pull Request**
+Buka Permintaan Tarik (Pull Request)
+
 ---
 
 ## ⭐ Dukung Proyek ini
