@@ -553,16 +553,14 @@ SOFTWARE.
 
 ---
 
-## 🤝 Contributing
+## 🤝 Berkontribusi
+Kontribusi, laporan bug, dan saran fitur sangat kami harapkan!
 
-Contributions, bug reports, and feature suggestions are welcome!
-
-1. Fork this repository
-2. Create your branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -m "feat: add your feature"`
-4. Push to branch: `git push origin feature/your-feature-name`
-5. Open a **Pull Request**
-
+Fork repositori ini
+Buat cabang Anda:git checkout -b feature/your-feature-name
+Simpan perubahan Anda:git commit -m "feat: add your feature"
+Dorong ke cabang:git push origin feature/your-feature-name
+Buka Permintaan Tarik **Pull Request**
 ---
 
 ## ⭐ Dukung Proyek ini
