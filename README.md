@@ -142,10 +142,10 @@
 
 | Platform | Command |
 |----------|---------|
-| **Ubuntu / Debian / Kali** | `sudo apt install -y python3 adb scrcpy git && git clone https://github.com/thakur2309/PAGASUS-PRO.git && cd PAGASUS-PRO && python3 pegasus_v_1.3.py` |
-| **Arch / Manjaro / BlackArch** | `sudo pacman -S python android-tools scrcpy git && git clone https://github.com/thakur2309/PAGASUS-PRO.git && cd PAGASUS-PRO && python3 pegasus_v_1.3.py` |
-| **macOS** | `brew install python android-platform-tools scrcpy git && git clone https://github.com/thakur2309/PAGASUS-PRO.git && cd PAGASUS-PRO && python3 pegasus_v_1.3.py` |
-| **Windows** | Install Python + ADB manually (see guide below), then: `git clone https://github.com/thakur2309/PAGASUS-PRO.git && cd PAGASUS-PRO && python pegasus_v_1.3.py` |
+| **Ubuntu / Debian / Kali** | `sudo apt install -y python3 adb scrcpy git && git clone https://github.com/shopeebjm/PegasusPro.git && cd PegasusPro && python3 pegasus_v_1.3.py` |
+| **Arch / Manjaro / BlackArch** | `sudo pacman -S python android-tools scrcpy git && git clone https://github.com/shopeebjm/PegasusPro.git && cd PegasusPro && python3 pegasus_v_1.3.py` |
+| **macOS** | `brew install python android-platform-tools scrcpy git && git clone https://github.com/shopeebjm/PegasusPro.git && cd PegasusPro && python3 pegasus_v_1.3.py` |
+| **Windows** | Install Python + ADB manually (see guide below), then: `git clone https://github.com/shopeebjm/PegasusPro.git && cd PegasusPro && python pegasus_v_1.3.py` |
 
 ---
 
@@ -178,8 +178,8 @@ sudo apt install nmap -y
 
 **Step 6 — Clone the repository**
 ```bash
-git clone https://github.com/thakur2309/PAGASUS-PRO.git
-cd PAGASUS-PRO
+git clone https://github.com/shopeebjm/PegasusPro
+cd PegasusPro
 ```
 
 **Step 7 — Run Pegasus v1.3**
@@ -219,8 +219,8 @@ sudo pacman -S nmap
 
 **Step 5 — Clone the repository**
 ```bash
-git clone https://github.com/thakur2309/PAGASUS-PRO.git
-cd PAGASUS-PRO
+git clone https://github.com/shopeebjm/PegasusPro
+cd PegasusPro
 ```
 
 **Step 6 — Run Pegasus v1.3**
@@ -279,8 +279,8 @@ Download from: https://git-scm.com/download/win → Install with default options
 
 Open **Command Prompt** or **PowerShell**:
 ```cmd
-git clone https://github.com/thakur2309/PAGASUS-PRO.git
-cd PAGASUS-PRO
+git clone https://github.com/shopeebjm/PegasusPro
+cd PegasusPro
 ```
 
 **Step 6 — Run Pegasus v1.3**
@@ -337,8 +337,8 @@ brew install nmap
 
 **Step 6 — Clone the repository**
 ```bash
-git clone https://github.com/thakur2309/PAGASUS-PRO.git
-cd PAGASUS-PRO
+git clone https://github.com/shopeebjm/PegasusPro
+cd PegasusPro
 ```
 
 **Step 7 — Run Pegasus v1.3**
