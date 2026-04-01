@@ -474,45 +474,74 @@ v1.3 - Rilis Terbaru
 - 10 fitur:
 + Deteksi Root (multi-metode), Audit Izin APK, Audit Keamanan Lengkap
 Pemindai Aplikasi yang Dapat Di-debug, Shell Interaktif, Pemeriksaan Keamanan Jaringan
+
 - Pengumpulan Log SMS/Panggilan, Filter Log Keamanan, Pemindai Kerentanan, Pemantau Jaringan
+- 
 ✅ Riwayat Koneksi Perangkat dengan stempel waktu dan durasi sesi (Opsi 23)
+
 ✅ Dukungan multi-perangkat
 - daftar dan pilih saat beberapa perangkat terdeteksi
+- 
 ✅ Pemutusan koneksi nirkabel selektif - pilih perangkat tertentu atau putuskan semua koneksi.
+
 ✅ Pemecahan Masalah ADB
 - matikan/mulai ulang server ADB untuk memperbaiki koneksi yang macet (Opsi 21)
+- 
 ✅ Peningkatan pada data kontak
 - Name: Numberpenguraian format yang lebih bersih.
 ✅ Daftar APK yang lebih bersih
 - hanya menampilkan nama paket, tanpa jalur mentah yang berantakan
+- 
 ✅ Penyimpanan yang mudah dibaca manusia
 - df -huntuk memudahkan pembacaan
+- 
 ✅ Pencatatan koneksi otomatis
 - log sesi ditulis saat dimulai dan diakhiri
 v1.2 —pegasusV-1.2.py
+
 ✅ Menu utama diperluas menjadi 20 pilihan lengkap
+
 ✅ Matikan dan hidupkan ulang perangkat dari jarak jauh
+
 ✅ Instal APK (sideload) dan Hapus Instalasi
+
 ✅ Transfer dua arah (Dorong dan Tarik File)
+
 ✅ Kirim SMS melalui intent Android
+
 ✅ Buang kontak perangkat
+
 ✅ Logcat, hasil dump log perangkat
+
 ✅ Mengubah status Wi-Fi pada perangkat
+
 ✅ Pengecekan informasi penyimpanan
+
 ✅ Pemicu kamera jarak jauh dan pengambilan foto
+
 ✅ reModul ditambahkan untuk penguraian kontak
 v1.1 —pegasus_v1.1.py
+
 ✅ Periksa info perangkat (model, versi Android, baterai)
+
 ✅ Koneksi dan pemutusan koneksi USB dan Wi-Fi ADB
+
 ✅ Perekaman layar dengan durasi yang dapat disesuaikan
+
 ✅ Pencermian layar langsung melalui scrcpy
+
 ✅ Daftar paket yang terpasang dan simpan ke file
+
 ✅ Ambil dan tarik tangkapan layar
 v1.0
+
 ✅ Rilis awal
 - pembungkus ADB dasar
-✅ Antarmuka pengguna menu terminal interaktif
+- 
+✅ Antarmuka pengguna menu terminal interaktif.
+
 ✅ Pemeriksa dependensi saat startup
+
 ✅ Output terminal berkode warna
 
 ---
