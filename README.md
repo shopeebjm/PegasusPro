@@ -573,9 +573,9 @@ It helps others find the project and motivates continued development.
 ---
 
 👨‍💻 **Author**  
-- Made with ❤️ by **thakur2309** 
-- Name: **Alok Thakur**  
-- YouTube: [🔥 Firewall Breaker](https://www.youtube.com/@FirewallBreaker09)
+- Made with ❤️ by **shopeebjm** 
+- Name: **shopeebjm**  
+- YouTube: [🔥 @shopee.bjm](https://www.tiktok.com/@shopee.bjm)
 
 ---
 # Like Share Comment And Subscribe
