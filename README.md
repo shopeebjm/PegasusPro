@@ -467,48 +467,44 @@ All generated files are saved in the **same directory** where you run the script
 
 ---
 
-## 📝 Changelog
-
-### v1.3 — Latest Release
-- ✅ **Advanced Security Tools submenu** added (Option 22) — 10 features:
-  - Root Detection (multi-method), APK Permissions Audit, Full Security Audit
-  - Debuggable Apps Scanner, Interactive Shell, Network Security Check
-  - SMS/Call Log Dump, Security Log Filter, Vulnerability Scanner, Network Monitor
-- ✅ **Device Connection History** with timestamps and session duration (Option 23)
-- ✅ **Multi-device support** — list and select when multiple devices detected
-- ✅ **Selective wireless disconnect** — choose specific device or disconnect all
-- ✅ **ADB Troubleshoot** — kill/restart ADB server to fix stuck connections (Option 21)
-- ✅ **Improved contact dump** — clean `Name: Number` format parsing
-- ✅ **Cleaner APK list** — shows only package names, no raw path clutter
-- ✅ **Human-readable storage** — `df -h` for easy reading
-- ✅ **Auto connection logging** — session log written on start and exit
-
-### v1.2 — `pegasusV-1.2.py`
-- ✅ Expanded to full 20-option main menu
-- ✅ Power Off and Reboot device remotely
-- ✅ APK Install (sideload) and Uninstall
-- ✅ File Push and Pull (two-way transfer)
-- ✅ Send SMS via Android intent
-- ✅ Dump device contacts
-- ✅ Logcat device log dump
-- ✅ Toggle Wi-Fi state on device
-- ✅ Storage info check
-- ✅ Remote camera trigger and photo pull
-- ✅ `re` module added for contact parsing
-
-### v1.1 — `pegasus_v1.1.py`
-- ✅ Check device info (model, Android version, battery)
-- ✅ USB and Wi-Fi ADB connect and disconnect
-- ✅ Screen recording with custom duration
-- ✅ Live screen mirroring via scrcpy
-- ✅ List installed packages and save to file
-- ✅ Take and pull screenshot
-
-### v1.0
-- ✅ Initial release — basic ADB wrapper
-- ✅ Interactive terminal menu UI
-- ✅ Dependency checker on startup
-- ✅ Color-coded terminal output
+## 📝 Catatan Perubahan
+v1.3 — Rilis Terbaru
+✅ Submenu Alat Keamanan Tingkat Lanjut ditambahkan (Opsi 22) — 10 fitur:
+Deteksi Root (multi-metode), Audit Izin APK, Audit Keamanan Lengkap
+Pemindai Aplikasi yang Dapat Di-debug, Shell Interaktif, Pemeriksaan Keamanan Jaringan
+Pengumpulan Log SMS/Panggilan, Filter Log Keamanan, Pemindai Kerentanan, Pemantau Jaringan
+✅ Riwayat Koneksi Perangkat dengan stempel waktu dan durasi sesi (Opsi 23)
+✅ Dukungan multi-perangkat — daftar dan pilih saat beberapa perangkat terdeteksi
+✅ Pemutusan koneksi nirkabel selektif — pilih perangkat tertentu atau putuskan semua koneksi.
+✅ Pemecahan Masalah ADB — matikan/mulai ulang server ADB untuk memperbaiki koneksi yang macet (Opsi 21)
+✅ Peningkatan pada data kontak — Name: Numberpenguraian format yang lebih bersih.
+✅ Daftar APK yang lebih bersih — hanya menampilkan nama paket, tanpa jalur mentah yang berantakan
+✅ Penyimpanan yang mudah dibaca manusia — df -huntuk memudahkan pembacaan
+✅ Pencatatan koneksi otomatis — log sesi ditulis saat dimulai dan diakhiri
+v1.2 —pegasusV-1.2.py
+✅ Menu utama diperluas menjadi 20 pilihan lengkap
+✅ Matikan dan hidupkan ulang perangkat dari jarak jauh
+✅ Instal APK (sideload) dan Hapus Instalasi
+✅ Transfer dua arah (Dorong dan Tarik File)
+✅ Kirim SMS melalui intent Android
+✅ Buang kontak perangkat
+✅ Logcat, hasil dump log perangkat
+✅ Mengubah status Wi-Fi pada perangkat
+✅ Pengecekan informasi penyimpanan
+✅ Pemicu kamera jarak jauh dan pengambilan foto
+✅ reModul ditambahkan untuk penguraian kontak
+v1.1 —pegasus_v1.1.py
+✅ Periksa info perangkat (model, versi Android, baterai)
+✅ Koneksi dan pemutusan koneksi USB dan Wi-Fi ADB
+✅ Perekaman layar dengan durasi yang dapat disesuaikan
+✅ Pencermian layar langsung melalui scrcpy
+✅ Daftar paket yang terpasang dan simpan ke file
+✅ Ambil dan tarik tangkapan layar
+v1.0
+✅ Rilis awal — pembungkus ADB dasar
+✅ Antarmuka pengguna menu terminal interaktif
+✅ Pemeriksa dependensi saat startup
+✅ Output terminal berkode warna
 
 ---
 
